@@ -1,0 +1,8 @@
+{
+  "name": "vue-cli-plugin-bug",
+  "description": "Vue cli ug",
+  "author": "Eric Fennis <ericfennis>",
+  "license": "MIT",
+  "version": "0.5.2",
+  "main": "index.js"
+}
